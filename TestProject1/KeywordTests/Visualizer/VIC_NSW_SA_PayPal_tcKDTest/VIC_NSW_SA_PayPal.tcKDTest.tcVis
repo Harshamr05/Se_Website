@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{3C05F9FC-620A-4A1A-9FAD-461072B97AF1}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="59" kind="0" dateTime="45063.3038078704" objectName="Aliases.browser.pageStep42.formSeCheckoutStep4Form.frameIframeippayments.formSePayDirectDebitForm.textnodeCreditDebitCard.textnodeCreditDebitCard2.labelPaypal" objectLeft="-1" objectTop="-1" objectRight="-1" objectBottom="-1" clickPointX="-1" clickPointY="-1" imageFileName="tcvi763246578237040.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="60" kind="0" dateTime="45063.3038194444" objectName="Aliases.browser.pageStep42.formSeCheckoutStep4Form.frameIframeippayments.formSePayDirectDebitForm.checkboxDdPaypalTc" objectLeft="475" objectTop="550" objectRight="535" objectBottom="618" clickPointX="494" clickPointY="569" imageFileName="tcvi763248093237042.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="61" kind="0" dateTime="45063.3038425926" objectName="Aliases.browser.pageStep42.formSeCheckoutStep4Form.frameIframeippayments.formSePayDirectDebitForm.frameJsxIframeA66c25e87a.panelPaypal" objectLeft="-1" objectTop="-1" objectRight="-1" objectBottom="-1" clickPointX="-1" clickPointY="-1" imageFileName="tcvi763249984237044.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{A6C5FF0E-163C-4D2D-AFC4-F1125BA74EB2}">
+	<children>
+		<child name="Se_Website_Latest" key="{27A07302-021F-4BC9-8D39-B827307E5C92}" path="TestProject1\Se_Website_Latest.mds" />
+		<child name="Se_Website_Bitbar" key="{5B1C9B71-792B-4042-A786-AF4B0505F317}" path="Se_Website_Bitbar\Se_Website_Bitbar.mds" />
+		<child name="SE_Website_Mobile" key="{C0F98462-CE68-4B85-9584-DF6A29E11205}" path="SE_Website_Mobile\SE_Website_Mobile.mds" />
+	</children>
+	<testItems key="{06E21984-F7F0-4AEF-84BA-002ECB1E8834}">
+		<children>
+			<testItem key="{27A07302-021F-4BC9-8D39-B827307E5C92}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{5B1C9B71-792B-4042-A786-AF4B0505F317}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{C0F98462-CE68-4B85-9584-DF6A29E11205}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{83401E00-F936-4B8F-B6F6-64FE19C7C6FD}" />
+	<analysis key="{F438D8D1-7EF9-4633-8E59-7B71FF33C0EC}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
+	<children>
+		<folder name="Pages">
+			<folder name="Residential">
+				<child name="Residential" key="{C7BF2C12-D863-4A6C-ABCB-7AB9E64B94DA}" path="Residential.tcKDTest" />
+				<child name="Search_Post_Code" key="{5AB941FC-03A2-445C-9432-8D8C68D26264}" path="Search_Post_Code.tcKDTest" />
+				<child name="Residential_QLD" key="{CDAC2154-230E-4D6E-8715-5C5BB105E4DF}" path="Residential_QLD.tcKDTest" />
+			</folder>
+			<folder name="Homepage">
+				<child name="Compareplans" key="{4B6B98B8-3C63-4522-B593-D3610B69C3C2}" path="Compareplans.tcKDTest" />
+			</folder>
+			<folder name="SME">
+				<child name="SME_Moving_Cards" key="{26508836-A7A1-40E9-8701-C501A14B82CA}" path="SME_Moving_Cards.tcKDTest" />
+				<child name="SME_Moving_Paypal" key="{CA718BF3-4BFB-451F-AEBB-66C3DB08FACA}" path="SME_Moving_Paypal.tcKDTest" />
+			</folder>
+			<folder name="Change Plan">
+				<child name="RES_ChangePlan_SavedPayment" key="{7CAFEC18-0F2F-4E6D-ACC2-6543D697D19D}" path="RES_ChangePlan_SavedPayment.tcKDTest" />
+				<child name="RES_ChangePlan_ManualPayment" key="{931B0CFB-061C-4AF6-9108-31E29A5CC82B}" path="RES_ChangePlan_ManualPayment.tcKDTest" />
+				<child name="SME_Changeplan_CreditCard" key="{25F78DF8-6300-432C-8A29-110A8E7C4958}" path="SME_Changeplan_CreditCard.tcKDTest" />
+				<child name="RES_QLD_ChangePlan_ManualPayment" key="{2B1D854D-1278-46C6-8C5D-49611951F741}" path="RES_QLD_ChangePlan_ManualPayment.tcKDTest" />
+				<child name="SME_WA_ChangePlan" key="{1EBA84B2-2B71-4505-B371-399603E146E7}" path="SME_WA_ChangePlan.tcKDTest" />
+			</folder>
+			<folder name="Relocation">
+				<child name="Relocation_DualFuel_Cards" key="{7F02A3C2-1CD6-40BA-9DA3-8BB729BA2543}" path="Relocation_DualFuel_Cards.tcKDTest" />
+				<child name="Relocation_QLD_SavedPay" key="{348F313C-A71B-492B-AEF9-2D33A69A08FF}" path="Relocation_QLD_SavedPay.tcKDTest" />
+			</folder>
+		</folder>
+		<folder name="Components" />
+		<folder name="Tests" />
+		<folder name="Utilities" />
+		<folder name="Utilities Common">
+			<child name="Browser_Start" key="{C9BE9DCA-07D3-4AA1-ABDD-9229CA2AD5C2}" path="Browser_Start.tcKDTest" />
+			<child name="browser_Navigate" key="{45ADC38B-88C1-448A-8E31-7996C8D34880}" path="browser_Navigate.tcKDTest" />
+			<child name="browser_End" key="{EEEE4314-3F77-4A0B-8218-2E343844EC51}" path="browser_End.tcKDTest" />
+		</folder>
+		<child name="Test1" key="{983196CB-B71F-4AF9-B720-345F8C7E48FE}" path="Test1.tcKDTest" />
+		<child name="Google_Pay_VISA_MC_AMEX" key="{24FEB7BD-269D-4310-8D36-AF7C2081A506}" path="..\KeywordTests2\Google_Pay_VISA_MC_AMEX.tcKDTest" />
+	</children>
+</Root>

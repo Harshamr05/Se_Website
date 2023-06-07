@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{2D2901F2-2019-4DDC-8FF7-6DF97386C459}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="57" kind="0" dateTime="45063.4503935185" objectName="Aliases.browser.pageStep42.formSeCheckoutStep4Form.labelByPost" objectLeft="804" objectTop="310" objectRight="1124" objectBottom="403" clickPointX="940" clickPointY="333" imageFileName="tcvi775911609147280.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="58" kind="0" dateTime="45063.4504050926" objectName="Aliases.browser.pageStep42.formSeCheckoutStep4Form.labelInvoiceOnly" objectLeft="804" objectTop="700" objectRight="1124" objectBottom="793" clickPointX="951" clickPointY="737" imageFileName="tcvi775912984147281.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="59" kind="0" dateTime="45063.4504398148" objectName="Aliases.browser.pageStep42.formSeCheckoutStep4Form.buttonEditSubmit" objectLeft="978" objectTop="813" objectRight="1124" objectBottom="880" clickPointX="1050" clickPointY="831" imageFileName="tcvi775915296147282.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

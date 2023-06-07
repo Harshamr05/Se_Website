@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{1614561D-3700-409A-9000-F6E2F72EBCDA}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="45077.341724537" objectName="Aliases.browser.pageSimplyEnergyAustraliaStartTo2.headerResidential.navResidential.textnodeBusiness.linkBusiness" objectLeft="640" objectTop="174" objectRight="742" objectBottom="301" clickPointX="662" clickPointY="229" imageFileName="tcvi13057046123560.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="6" kind="0" dateTime="45077.3417592593" objectName="Aliases.browser.pageSimplyEnergyAustraliaStartTo2.textnodeElectricityGasPlans2.textnodeElectricityGasPlansTopic2.linkCompareSmallBusinessPlans.textnodeCompareSmallBusinessPlan" objectLeft="701" objectTop="534" objectRight="954" objectBottom="562" clickPointX="755" clickPointY="541" imageFileName="tcvi13060078123561.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

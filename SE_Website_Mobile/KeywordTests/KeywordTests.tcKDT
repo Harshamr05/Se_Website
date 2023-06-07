@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
+	<children>
+		<child name="Singup_Invoice" key="{42FC9C95-48D3-430D-B2DE-97607574B8F3}" path="Singup_Invoice.tcKDTest" />
+	</children>
+</Root>

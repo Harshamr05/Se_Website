@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
+	<children>
+		<folder name="Pages">
+			<folder name="New_residential">
+				<child name="VIC_NSW_SA_DD" key="{4B6B98B8-3C63-4522-B593-D3610B69C3C2}" path="VIC_NSW_SA_DD.tcKDTest" />
+				<child name="VIC_NSW_SA_PayPal" key="{3C05F9FC-620A-4A1A-9FAD-461072B97AF1}" path="VIC_NSW_SA_PayPal.tcKDTest" />
+				<child name="VIC_NSW_SA_Manual" key="{2D2901F2-2019-4DDC-8FF7-6DF97386C459}" path="VIC_NSW_SA_Manual.tcKDTest" />
+				<child name="WA_DD" key="{D9D500BF-849B-413D-998C-09D55C3AD17B}" path="WA_DD.tcKDTest" />
+				<child name="VIC_NSW_SA_Bank" key="{5AA53CD4-8198-4711-8A49-6EF0A13CF4B8}" path="..\KeywordTests1\VIC_NSW_SA_Bank.tcKDTest" />
+				<child name="QLD_Bank" key="{B36E7499-7005-427A-9610-811BD386A3C7}" path="..\KeywordTests1\QLD_Bank.tcKDTest" />
+			</folder>
+			<folder name="New_SOHO">
+				<child name="VIC_NSW_SA_Card" key="{F04B2E55-4125-49B4-A7FE-7F8947722A63}" path="VIC_NSW_SA_Card.tcKDTest" />
+				<child name="VIC_NSW_SA_PayPal_SOHO_" key="{FF118B71-5F1E-459A-B788-6ABC9F725DE0}" path="VIC_NSW_SA_PayPal_SOHO_.tcKDTest" />
+				<child name="WA_BankAccount" key="{F490086C-3000-49CA-A934-C838E68D2146}" path="WA_BankAccount.tcKDTest" />
+				<child name="QLD_Manual" key="{11FAF92F-20D1-4BCD-9CB2-6F0A006E2F5C}" path="QLD_Manual.tcKDTest" />
+			</folder>
+			<folder name="New_SME">
+				<child name="New_SME_QLD_Manual" key="{05F1812D-75B9-4007-96BD-F33BE4AC0B37}" path="New_SME_QLD_Manual.tcKDTest" />
+				<child name="New_SME_VIC_NSW_SA_Moving_Cards" key="{CFF88B85-0DBE-4B78-8AB8-81E8C3AF398B}" path="..\KeywordTests1\New_SME_VIC_NSW_SA_Moving_Cards.tcKDTest" />
+				<child name="New_SME_VIC_NSW_SA_Paypal" key="{6D840019-67FB-4BE3-AFB1-CBA7F60692B9}" path="..\KeywordTests1\New_SME_VIC_NSW_SA_Paypal.tcKDTest" />
+				<child name="New_SME_WA_Moving_Card" key="{D6E5721D-95B4-4731-B954-23687012C63B}" path="..\..\..\..\..\Downloads\KeywordTestsSharth\New_SME_WA_Moving_Card.tcKDTest" />
+			</folder>
+			<folder name="Existing_MIMO">
+				<child name="Res_VIC_NSW_SA_Card" key="{DAF13A81-F172-42CE-98F3-351672C00426}" path="Res_VIC_NSW_SA_Card.tcKDTest" />
+				<child name="RES_QLD_Manual" key="{B3E467B7-FEB7-4222-8731-EA00C7DE6B59}" path="RES_QLD_Manual.tcKDTest" />
+				<child name="RES_WA_BankAccount" key="{9E9AF382-9638-43CD-B894-7582E993D3D3}" path="RES_WA_BankAccount.tcKDTest" />
+			</folder>
+			<folder name="Pay_My_Bill">
+				<child name="Credit_Card_Visa_MC_AMex_" key="{C8086D31-8CFE-4398-ABAE-1E69E01A8748}" path="Credit_Card_Visa_MC_AMex_.tcKDTest" />
+				<child name="PayPal" key="{1DB9BAD3-BEB8-4C58-8659-C14801D28254}" path="PayPal.tcKDTest" />
+				<child name="Google_Pay_VISA_MC_AMEX" key="{685C9087-1460-4E36-8E45-F98CE773A54D}" path="Google_Pay_VISA_MC_AMEX.tcKDTest" />
+			</folder>
+			<folder name="Existing_Relocation">
+				<child name="Res_WA_Gas_Paypal" key="{3BB96758-8AD0-422E-A603-5C62A377CBFD}" path="Res_WA_Gas_Paypal.tcKDTest" />
+				<child name="RES_QLD_ELEC_Saved_Payment" key="{5E07576D-C780-4314-B34B-C61AF0B73B82}" path="..\KeywordTests1\RES_QLD_ELEC_Saved_Payment.tcKDTest" />
+				<child name="RES_VIC_NSW_SA_DF" key="{894EAF52-DEB0-496D-89EA-EF5972F95F2C}" path="..\KeywordTests1\RES_VIC_NSW_SA_DF.tcKDTest" />
+			</folder>
+			<folder name="Existing_SME_Add Account">
+				<child name="Existing_SME_SA_Add_Account_Card" key="{61DD88F3-2835-4AFC-8C25-117B3E21518D}" path="Existing_SME_SA_Add_Account_Card.tcKDTest" />
+				<child name="Exi_RES_NSW_AddElec_Invoice" key="{F945CDE0-72EC-4EA9-AA27-B52E7DBFE06D}" path="..\..\..\..\..\Downloads\KeywordTestsSharth\Exi_RES_NSW_AddElec_Invoice.tcKDTest" />
+				<child name="Exi_RES_NSW_AddGas_Invoice" key="{3ECA7F1C-45F0-46BC-84EE-4478A1BFA3EE}" path="..\..\..\..\..\Downloads\KeywordTestsSharth\Exi_RES_NSW_AddGas_Invoice.tcKDTest" />
+			</folder>
+			<folder name="Existing_Change Plan">
+				<child name="RES_VIC_NSW_SA_Saved_Payment" key="{D88D97D3-548C-4AD6-B688-15EB72B3E268}" path="..\KeywordTests1\RES_VIC_NSW_SA_Saved_Payment.tcKDTest" />
+				<child name="RES_QLD_ManualPayment" key="{358EBDE0-EF25-47DD-8883-AF5C1747BFED}" path="..\KeywordTests1\RES_QLD_ManualPayment.tcKDTest" />
+				<child name="SME_VIC_NSW_SA_DF_Credit_Card" key="{F148FC10-4B85-4C54-A2BA-F92182BD4387}" path="..\KeywordTests1\SME_VIC_NSW_SA_DF_Credit_Card.tcKDTest" />
+				<child name="SME_WA_Saved_payment" key="{1CC2E494-3A2F-48AB-8DA0-63F0A1EFAFE2}" path="..\KeywordTests1\SME_WA_Saved_payment.tcKDTest" />
+				<child name="Exi_RES_WA_ChangePlan_Bank" key="{D09D39FD-B41D-4392-817E-173D2378EA18}" path="..\..\..\..\..\Downloads\KeywordTestsSharth\Exi_RES_WA_ChangePlan_Bank.tcKDTest" />
+			</folder>
+		</folder>
+		<folder name="Utilities Common">
+			<child name="Browser_Start" key="{C9BE9DCA-07D3-4AA1-ABDD-9229CA2AD5C2}" path="Browser_Start.tcKDTest" />
+			<child name="browser_Navigate" key="{45ADC38B-88C1-448A-8E31-7996C8D34880}" path="browser_Navigate.tcKDTest" />
+			<child name="browser_End" key="{EEEE4314-3F77-4A0B-8218-2E343844EC51}" path="browser_End.tcKDTest" />
+		</folder>
+		<child name="Test2" key="{1614561D-3700-409A-9000-F6E2F72EBCDA}" path="Test2.tcKDTest" />
+	</children>
+</Root>
